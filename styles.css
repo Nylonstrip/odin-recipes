@@ -1,0 +1,34 @@
+h1 {
+    background-color: gray;
+    color: red;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.style {
+    background-color: gray;
+    color: red;
+    font-size: 23px;
+}
+
+.pbstyle {
+    background-color: gray;
+    color: purple;
+    font-size: 23px;
+}
+
+.chstyle {
+    background-color: gray;
+    color: brown;
+    font-size: 23px;
+}
+
+.zistyle {
+    background-color: gray;
+    color: green;
+    font-size: 23px;
+}
+
+.bgstuff {
+    background-color: black;
+}
